@@ -1,0 +1,24 @@
+{
+	"name": "Play Possum",
+	"GUID": "kel",
+	"priority": 2,
+  "isSpecialAbility": true,
+	"abilityBehaviour": [
+		{
+			"trigger": {
+				"triggerType": "OnDie"
+			},
+      "placeCards": [{
+        "slot": {
+          "index": "([DeathSlot.Index])",
+          "isOpponentSlot": "false"
+        },
+        "card": {
+          "name": "kel_PossumFainted",
+          "retainMods": "true"
+        },
+        "replace": "false"
+      }]
+		}
+	]
+}

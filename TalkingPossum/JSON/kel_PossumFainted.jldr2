@@ -1,0 +1,20 @@
+{
+  "name": "kel_PossumFainted",
+  "modPrefix": "kel",
+  "displayedName": "",
+  "metaCategories": [],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "tribes": [],
+  "traits": [],
+  "abilities": [ "DebuffEnemy" ],
+  "specialAbilities": [ "kel_Notices Possum" ],
+  "onePerDeck": true,
+  "defaultEvolutionName": "Not-So-Awesome Opossum",
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "decals": [ "kel_PossumFainted_decal.png" ]
+}

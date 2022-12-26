@@ -1,0 +1,23 @@
+{
+  "name": "kel_Possum",
+  "modPrefix": "kel",
+  "displayedName": "Opossum",
+  "description": "Oh, this one. Right. You can keep it. Not much use to me, anyway.",
+  "metaCategories": [
+    "ChoiceNode"
+  ],
+  "cardComplexity": "Vanilla",
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "tribes": [],
+  "traits": [],
+  "abilities": [],
+  "specialAbilities": [ "kel_Play Possum" ],
+  "onePerDeck": true,
+  "defaultEvolutionName": "Awesome Opossum",
+  "flipPortraitForStrafe": false,
+  "tailName": "Tail_Furry",
+  "pixelTexture": "kel_Possum_Pixel.png"
+}

@@ -1,0 +1,20 @@
+{
+	"name": "Notices Possum",
+	"GUID": "kel",
+	"priority": 2,
+  "isSpecialAbility": true,
+	"abilityBehaviour": [
+		{
+			"trigger": {
+				"triggerType": "OnResolveOnBoard"
+			},
+      "showMessage": {
+        "message": "Playing dead? What a despicable creature.",
+        "length": "1",
+        "emotion": "Anger",
+        "letterAnimation": "None",
+        "speaker": "Leshy"
+      }
+		}
+	]
+}

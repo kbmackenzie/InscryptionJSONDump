@@ -1,0 +1,210 @@
+{
+   "cardName": "kel_Possum",
+   "faceSprite": "kel_Possum_Body.png",
+   "eyeSprites": {
+      "open": "kel_Possum_Eyes_Open.png",
+      "closed": "kel_Possum_Eyes_Closed.png"
+   },
+   "mouthSprites": {
+      "open": "kel_Possum_Mouth_Open.png",
+      "closed": "kel_Possum_Mouth_Closed.png"
+   },
+   "emissionSprite": "kel_Possum_Emission.png",
+   "faceInfo": {
+      "blinkRate": 1.5,
+      "voiceId": null,
+      "voiceSoundPitch": 1.1,
+      "customVoice": "kel_PossumVoice.wav"
+   },
+   "dialogueEvents": [
+      {
+         "eventName": "OnDrawn",
+         "mainLines": [
+            "...[w:1]",
+            "Alright.[w:1]",
+            "You must be... [w:0.4][c:#280085]confused[c:][w:1].",
+            "I get it.[w:0.2] I do.[w:0.2] It sucks.[w:0.4]",
+            "So, uh.[w:0.2] Hi.[w:0.2]",
+            "We're...[w:0.6] stuck together, I suppose.[w:0.2]",
+            "It could be worse.[w:0.2]",
+            "Look on the [c:#280085]bright side![c:][w:0.4]",
+            "...[w:1]",
+            "... There's no bright side.",
+            "We're all doomed.[leshy:Quiet now.][w:2]",
+            "...[w:1]",
+            "Good luck.[w:2]"
+         ],
+         "repeatLines": [
+            [
+               "You know,[w:0.2] I was[w:0.4]",
+               "A [c:#280085]scrybe[c:] once.[w:2]",
+               "Good times, good times.[w:0.6] Alas.[w:0.6]",
+               "Now I'm a fucking possum.[w:1]",
+               "... This man over there?[w:0.4]",
+               "That guy?[w:0.6]",
+               "He wasn't so bad before this.[w:1]",
+               "I still think he has...[w:0.6]",
+               "... Some good in him.[w:0.4]",
+               "Some.[w:1]",
+               "... Anyway,[w:0.4] here's my plan-[leshy:Silence.][w:3]",
+               "...[w:1]",
+               "Aight. Got the memo.[w:0.6]",
+               "Good luck, traveler.[w:1]",
+               "I'm rooting for you.[w:1]"
+            ],
+            [
+               "...[w:0.4]",
+               "Here we go again.[w:1]",
+               "Isn't this FUN?[w:1] Nope.[w:0.4]",
+               "It's not fun.[w:2]"
+            ],
+            [
+               "You know, I think[w:0.4]",
+               "You have potential.[w:1]",
+               "I'm rooting for you.[w:2]",
+               "...[w:1]",
+               "Also,[w:0.2] if you[w:0.2], uh[w:0.4]",
+               "If you find an...[w:0.4] [c:#280085]odd-looking wolf...[c:][w:1]",
+               "... Tell him I-[leshy:Enough of that now.][w:2]",
+               "...[w:2]",
+               "Killjoy.[w:2]"
+            ],
+            [
+               "...[w:1]",
+               "This is getting old.[w:1]"
+            ],
+            [
+               "...[w:1]",
+               "... You know...[w:0.4]",
+               "That old man over there?[w:0.4]",
+               "He has no idea[w:0.2]",
+               "He's biting[w:0.2] way[w:0.2] more[w:0.2]",
+               "Than he can possibly chew.[w:1]",
+               "Listen to me now.[w:0.6]",
+               "You have to-[leshy:Quiet, vermin.][w:2]",
+               "... Vermin?[w:0.2] Excuse me?[w:0.4]",
+               "You know my name.[w:0.4]",
+               "It's Periwinkle.[leshy:I said quiet.][w:2]",
+               "...[w:1]",
+               "[c:#280085]Lamb to the slaughter.[c:][w:2]"
+            ]
+         ]
+      },
+	  {
+         "eventName": "OnAttacked",
+         "mainLines": [ "NOT THE FACE!" ],
+         "repeatLines": [
+            [ "LEAVE ME ALONE." ],
+            [ "QUIT IT, GODDAMMIT." ],
+            [ "You're lucky I'm trapped as a marsupial."]
+         ]
+      },
+	  {
+         "eventName": "OnSacrificed",
+         "mainLines": [ "Okay, I see how it is--" ],
+         "repeatLines": [
+            [ "AGAIN??" ],
+            [ "AGAIN?? REALLY??" ]
+         ]
+      },
+	  {
+         "eventName": "OnBecomeSelectableNegative",
+         "mainLines": [
+            "...[w:1]",
+            "Odd feeling."
+         ],
+         "repeatLines": [
+            [ "Maybe skip me, perhaps?" ],
+            [ "I'd rather you didn't." ],
+            [ "Have you seen a strange-looking wolf?" ]
+         ]
+    },
+	  {
+         "eventName": "OnBecomeSelectablePositive",
+         "mainLines": [
+            "...[w:1]",
+            "It'd be... acceptable." 
+         ],
+         "repeatLines": [
+            [
+               "...[w:1]",
+               "I mean, if you insist."
+            ],
+            [
+               "...[w:1]",
+               "Would it suit me?"
+            ]
+         ]
+    },
+	  {
+         "eventName": "OnPlayFromHand",
+         "mainLines": [
+            "... Ah.[w:1]",
+            "The board.[w:0.4] Again.[w:0.6]",
+            "[c:#280085]Lamb to the slaughter.[c:][w:2]",
+            "I get it.[w:0.2]I do.[w:0.2]I do.[w:0.4]",
+            "Do as you must,[w:0.2] traveler.[w:1]",
+            "I'm rooting for you.[w:2]"
+         ],
+         "repeatLines": [
+            [
+               "Ah.[w:0.2] The board, again.[w:0.2] I see.[w:1]",
+               "[c:#280085]Lamb to the slaughter.[c:][w:2]"
+            ],
+            [
+               "[c:#280085]Lamb to the slaughter.[c:][w:2]",
+               "... I suppose.[w:1]"
+            ]
+         ]
+      },
+	  {
+         "eventName": "OnSelectedForCardRemove",
+         "mainLines": [
+            "... What?[w:0.4]",
+            "Why are you[w:0.2]",
+            "looking at me like that?[w:0.6]"
+         ],
+         "repeatLines": [
+            [
+               "...[w:1]",
+               "... If you must.[w:1]"
+            ],
+            [
+               "...[w:1]",
+               "[c:#280085]Lamb to the slaughter.[c:][w:2]"
+            ],
+            [
+               "[c:#280085]Lamb to the slaughter.[c:][w:2]"
+            ]
+         ]
+      },
+	  {
+         "eventName": "OnSelectedForCardMerge",
+         "mainLines": [
+            "This sounds...[w:0.6]",
+            "... [c:#280085]acceptable.[c:][w:1]"
+         ],
+         "repeatLines": [
+            [
+               "Is it...[w:0.4] gonna...[w:0.4]",
+               "Is it gonna hurt?[w:1]"
+            ],
+            [
+               "This is...[w:0.6] fine.[w:1]",
+               "... I suppose.[w:2]"
+            ]
+         ]
+      },
+	  {
+         "eventName": "OnSelectedForDeckTrial",
+         "mainLines": [
+            "...[w:1]",
+            "... Why me?[w:1]"
+         ],
+         "repeatLines": [
+            [ "... This is weird.[w:1]" ],
+            [ "Fate deals its cards.[w:1]" ]
+         ]
+      }
+   ]
+}

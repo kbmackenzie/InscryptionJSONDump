@@ -1,0 +1,19 @@
+{
+  "decks": [
+    {
+      "name": "Awesome Possum",
+      "iconTexture": "kel_AwesomePossum_deck.png",
+      "cards": [ "kel_Possum", "Opossum", "Opossum" ]
+    },
+    {
+      "name": "Death Tango",
+      "iconTexture": "kel_DeathTango_deck.png",
+      "cards": [ "kel_Possum", "Cockroach", "Cat" ]
+    },
+    {
+      "name": "Trash Mammals",
+      "iconTexture": "kel_TrashMammals_deck.png",
+      "cards": [ "kel_Possum", "Skunk", "Raccoon" ]
+    }
+  ]
+}
