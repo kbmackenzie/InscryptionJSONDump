@@ -5,6 +5,7 @@
   "isSpecialAbility": true,
 	"abilityBehaviour": [
 		{
+      "actionOrder": [ "placeCards", "showMessage" ],
 			"trigger": {
 				"triggerType": "OnDie"
 			},
@@ -18,7 +19,14 @@
           "retainMods": "true"
         },
         "replace": "false"
-      }]
+      }],
+      "showMessage": {
+        "message": "Playing dead? What a despicable creature.",
+        "length": "3",
+        "emotion": "Anger",
+        "letterAnimation": "None",
+        "speaker": "Leshy"
+      }
 		}
 	]
 }

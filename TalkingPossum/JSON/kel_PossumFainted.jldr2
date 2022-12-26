@@ -11,7 +11,7 @@
   "tribes": [],
   "traits": [],
   "abilities": [ "DebuffEnemy" ],
-  "specialAbilities": [ "kel_Notices Possum" ],
+  "specialAbilities": [],
   "onePerDeck": true,
   "defaultEvolutionName": "Not-So-Awesome Opossum",
   "flipPortraitForStrafe": false,
