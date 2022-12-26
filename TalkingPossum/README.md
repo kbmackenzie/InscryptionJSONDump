@@ -2,7 +2,7 @@ An Inscryption mod that adds an Opossum talking card. This mod doubles as an exa
 
 The talking Opossum card has custom dialogue and a custom voice.
 
-![Talking Card Example](https://i.imgur.com/KRDrMOM.gif)
+![Talking Card Example](https://i.imgur.com/QePllyT.gif)
 
 In addition, this mod also adds 3 starter decks:
 | Name           | Cards                               |
