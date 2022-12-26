@@ -37,6 +37,7 @@ There are two ways of installing this mod: with the help of a mod manager (like 
 # FAQ
 
 **Q:** *"How can I make my own talking cards?"*
+
 **A:** This mod was made entirely with JSON. The main goal of this mod is to serve as an example of how to make talking cards with JSON with the help of the [JSONLoader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/) mod and my [TalkingCardAPI](https://inscryption.thunderstore.io/package/KellyBetty/TalkingCardAPI/) mod.
 
 JSON is very accessible, you should try making your own JSON cards if you haven't already!
