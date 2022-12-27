@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 *.jldr2 linguist-language=JSON
+*.jldr2 linguist-detectable
+*.json linguist-detectable
