@@ -1,14 +1,14 @@
 {
-	"name": "Play Possum",
-	"GUID": "kel",
-	"priority": 2,
+  "name": "Play Possum",
+  "GUID": "kel",
+  "priority": 2,
   "isSpecialAbility": true,
-	"abilityBehaviour": [
-		{
-      "actionOrder": [ "placeCards", "showMessage" ],
-			"trigger": {
-				"triggerType": "OnDie"
-			},
+  "abilityBehaviour": [
+    {
+      actionOrder": [ "placeCards", "showMessage" ],
+      "trigger": {
+        "triggerType": "OnDie"
+      },
       "placeCards": [{
         "slot": {
           "index": "([DeathSlot.Index])",
@@ -27,6 +27,6 @@
         "letterAnimation": "None",
         "speaker": "Leshy"
       }
-		}
+    }
 	]
 }
