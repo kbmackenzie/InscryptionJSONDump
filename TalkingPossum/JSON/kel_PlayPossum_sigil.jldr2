@@ -5,7 +5,7 @@
   "isSpecialAbility": true,
   "abilityBehaviour": [
     {
-      actionOrder": [ "placeCards", "showMessage" ],
+      "actionOrder": [ "placeCards", "showMessage" ],
       "trigger": {
         "triggerType": "OnDie"
       },
