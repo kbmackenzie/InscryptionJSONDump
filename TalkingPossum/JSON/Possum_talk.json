@@ -90,7 +90,7 @@
             ]
          ]
       },
-    {
+	  {
          "eventName": "OnAttacked",
          "mainLines": [ "NOT THE FACE!" ],
          "repeatLines": [
@@ -99,7 +99,7 @@
             [ "You're lucky I'm trapped as a marsupial."]
          ]
       },
-    {
+	  {
          "eventName": "OnSacrificed",
          "mainLines": [ "Okay, I see how it is--" ],
          "repeatLines": [
@@ -107,7 +107,7 @@
             [ "AGAIN?? REALLY??" ]
          ]
       },
-    {
+	  {
          "eventName": "OnBecomeSelectableNegative",
          "mainLines": [
             "...[w:1]",
@@ -119,7 +119,7 @@
             [ "Have you seen a strange-looking wolf?" ]
          ]
     },
-    {
+	  {
          "eventName": "OnBecomeSelectablePositive",
          "mainLines": [
             "...[w:1]",
@@ -136,7 +136,7 @@
             ]
          ]
     },
-    {
+	  {
          "eventName": "OnPlayFromHand",
          "mainLines": [
             "... Ah.[w:1]",
@@ -157,7 +157,7 @@
             ]
          ]
       },
-    {
+	  {
          "eventName": "OnSelectedForCardRemove",
          "mainLines": [
             "... What?[w:0.4]",
@@ -178,7 +178,7 @@
             ]
          ]
       },
-    {
+	  {
          "eventName": "OnSelectedForCardMerge",
          "mainLines": [
             "This sounds...[w:0.6]",
@@ -195,7 +195,7 @@
             ]
          ]
       },
-    {
+	  {
          "eventName": "OnSelectedForDeckTrial",
          "mainLines": [
             "...[w:1]",
