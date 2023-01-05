@@ -19,5 +19,5 @@
   "defaultEvolutionName": "Awesome Opossum",
   "flipPortraitForStrafe": false,
   "tailName": "Tail_Furry",
-  "pixelTexture": "kel_Possum_Pixel.png"
+  "pixelTexture": "kel_Possum_PixelSprite.png"
 }

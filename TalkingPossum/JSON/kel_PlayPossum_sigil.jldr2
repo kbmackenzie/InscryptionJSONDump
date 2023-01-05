@@ -22,7 +22,7 @@
       }],
       "showMessage": {
         "message": "Playing dead? What a despicable creature.",
-        "length": "3",
+        "length": "2",
         "emotion": "Anger",
         "letterAnimation": "None",
         "speaker": "Leshy"

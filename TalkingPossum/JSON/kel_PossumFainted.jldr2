@@ -16,5 +16,5 @@
   "defaultEvolutionName": "Not-So-Awesome Opossum",
   "flipPortraitForStrafe": false,
   "tailName": "Tail_Furry",
-  "decals": [ "kel_PossumFainted_decal.png" ]
+  "decals": [ "kel_PossumFainted.png" ]
 }
