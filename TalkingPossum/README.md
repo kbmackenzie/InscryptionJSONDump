@@ -2,7 +2,9 @@ An Inscryption mod that adds an Opossum talking card. This mod doubles as an exa
 
 The talking Opossum card has custom dialogue and a custom voice.
 
-![Talking Card Example](https://i.imgur.com/QePllyT.gif)
+**\[UPDATE 01.05.22]: Redesign! + Emotions** I finally had time to put more effort on the artwork, and after adding support for emotions to my TalkingCardAPI mod, I've added a few emotions to this Opossum card, too! c:
+
+![Talking Card Example](https://i.imgur.com/oe779Ar.gif)
 
 In addition, this mod also adds 3 starter decks:
 | Name           | Cards                               |
@@ -37,7 +39,11 @@ There are two ways of installing this mod: with the help of a mod manager (like 
 # FAQ
 
 **Q:** *"How can I make my own talking cards?"*
-
 **A:** This mod was made entirely with JSON. The main goal of this mod is to serve as an example of how to make talking cards with JSON with the help of the [JSONLoader](https://inscryption.thunderstore.io/package/MADH95Mods/JSONCardLoader/) mod and my [TalkingCardAPI](https://inscryption.thunderstore.io/package/KellyBetty/TalkingCardAPI/) mod.
 
 JSON is very accessible, you should try making your own JSON cards if you haven't already!
+
+# Changelog
+
+- **1.2.0** - Complete redesign + added emotions!
+- **1.0.0** - Initial upload.
