@@ -9,10 +9,12 @@
       "open": "kel_Possum_Mouth_Open.png",
       "closed": "kel_Possum_Mouth_Closed.png"
    },
-   "emissionSprite": "kel_Possum_Eyes_Emission.png",
+   "emissionSprites": {
+      "open": "kel_Possum_Eyes_Emission.png",
+      "closed": "_"
+   },
    "faceInfo": {
       "blinkRate": 1.5,
-      "voiceId": null,
       "voiceSoundPitch": 1.1,
       "customVoice": "kel_PossumVoice.wav"
    },
@@ -23,7 +25,10 @@
             "open": "kel_Possum_Angry_Eyes_Open.png",
             "closed": "kel_Possum_Angry_Eyes_Closed.png"
          },
-         "emissionSprite": "kel_Possum_Angry_Eyes_Emission.png"
+         "emissionSprites": {
+            "open": "kel_Possum_Angry_Eyes_Emission.png",
+            "closed": "_"
+         }
       },
       {
          "emotion": "Quiet",
@@ -31,7 +36,10 @@
             "open": "kel_Possum_Quiet_Eyes_Open.png",
             "closed": "kel_Possum_Quiet_Eyes_Closed.png"
          },
-         "emissionSprite": "kel_Possum_Quiet_Eyes_Emission.png"
+         "emissionSprites": {
+            "open": "kel_Possum_Quiet_Eyes_Emission.png",
+            "closed": "_"
+         }
       },
       {
          "emotion": "Surprise",
@@ -39,7 +47,10 @@
             "open": "kel_Possum_Surprised_Eyes_Closed.png",
             "closed": "kel_Possum_Surprised_Eyes_Closed.png"
          },
-         "emissionSprite": "_"
+         "emissionSprites": {
+            "open": "_",
+            "closed": "_"
+         }
       }
    ],
    "dialogueEvents": [
