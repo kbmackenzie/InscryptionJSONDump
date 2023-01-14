@@ -1,8 +1,11 @@
 An assortment of examples of mods made for Inscryption with JSONCardLoader and my own JSON-loader mods.
 
+# Talking Card Guide
+A guide on how to create talking cards with JSONCardLoader. [link](Documentation\Talking Card Guide.md).
+
 # Talking Possum
 An opossum talking card made with [JSONCardLoader](https://github.com/MADH95/JSONLoader) and my [TalkingCardAPI](https://github.com/KBMackenzie/TalkingCardAPI) mod.
 
-![Talking Card Example](https://i.imgur.com/QePllyT.gif)
+![Talking Card Example](https://i.imgur.com/oe779Ar.gif)
 
 You can download it from Thunderstore [here](https://inscryption.thunderstore.io/package/KellyBetty/Talking_Possum/).
