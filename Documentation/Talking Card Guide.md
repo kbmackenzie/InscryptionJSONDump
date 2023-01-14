@@ -92,7 +92,7 @@ A good approach to making these face sprites is draw the face, eyes and mouth in
 
 You don't have to worry about any performance impact when putting the same image on multiple fields, as [explained in this section below](#side-note-reusing-images).
 
-This mod also includes shorthand for an 'empty' texture, which you can use when you want a part of your character's face to not be displayed. The shorthand for that is a "\_" in the field for the given image. This is [explained more in depth in this section below](#side-note-empty-textures).
+This mod also includes shorthand for an 'empty' texture, which you can use when you want a part of your character's face to not be displayed. The shorthand for that is a "\_" in the field for the given image. This is [explained more in depth in this section below](#side-note-empty-texture).
 
 ### FaceInfo
 A set of details about your character's face: blink speed and voice.
