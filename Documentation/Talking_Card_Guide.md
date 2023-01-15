@@ -65,7 +65,7 @@ Your JSON file should look like this:
 
 I'm going to explain each field in detail below.
 
-If you want to see an example of a \_talk.json file completed filled out, you can look at my [Talking Possum](https://github.com/KBMackenzie/InscryptionJSONDump/blob/main/TalkingPossum/JSON/Possum_talk.json) card. It has an animated portrait, dialogue codes and a custom voice.
+If you want to see an example of a \_talk.jldr2 file completed filled out, you can look at my [Talking Possum](https://github.com/KBMackenzie/InscryptionJSONDump/blob/main/TalkingPossum/JSON/Possum_talk.jldr2) card. It has an animated portrait, dialogue codes and a custom voice.
 
 #### Note: Backwards Compatibility
 I have included backwards compatibility for all cards created with my TalkingCardAPI mod before it was merged with JSONLoader. Most fields are the same, except for "emissionSprites", which didn't exist back then: Instead, JSON files back then had a "emissionSprite" field, which accepted only one image (for an 'open eye' emission only). Thus, you can still use that field, though I'd encourage you to transition to the new structure instead!
@@ -386,7 +386,7 @@ If you prefer, you can use the numeric value associated with an emotion instead 
 
 # FAQ
 
-**Q:** *"I'm getting an error that says my \_talk.json file couldn't be loaded! What does this mean?"*
+**Q:** *"I'm getting an error that says my \_talk.jldr2 file couldn't be loaded! What does this mean?"*
 
 **A:** Please double check your file and make sure you didn't make any mistakes with the JSON syntax.
 
