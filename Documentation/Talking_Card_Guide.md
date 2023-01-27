@@ -13,7 +13,7 @@ You're going to need an existing card for this. You can create your own card wit
 
 You're also going to need to make another JLDR2 file for this. This new file will contain all of the necessary information for the generation of your talking card.
 
-This new JSON file **must have a name that ends in "\_talk.jldr2"**. If your file's name does not end in "\_talk.json", you will run into quite a few issues, so please make sure of that!
+This new JSON file **must have a name that ends in "\_talk.jldr2"**. If your file's name does not end in "\_talk.jldr2", you will run into quite a few issues, so please make sure of that!
 
 I'm gonna explain the structure of "\_talk.jldr2" files below.
 
